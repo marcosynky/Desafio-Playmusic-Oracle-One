@@ -1,3 +1,4 @@
+
 <h1>Musicplay - Aplicativo de Gestão de Músicas e Podcasts</h1>
 
 <h2>📖 Sobre</h2>
@@ -8,6 +9,8 @@
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 <p>Este projeto utiliza as seguintes tecnologias:</p>
